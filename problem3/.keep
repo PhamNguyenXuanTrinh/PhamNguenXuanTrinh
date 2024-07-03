@@ -1,0 +1,5 @@
+//Thay đổi biến lhsPriority thành balancePriority trong hàm filter, vì lhsPriority không được định nghĩa.
+
+//Điều kiện if (lhsPriority > -99) trong hàm filter không chính xác vì lhsPriority không tồn tại. Nên sửa lại để đảm bảo logic lọc đúng.
+
+//Không có thuộc tính blockchain
